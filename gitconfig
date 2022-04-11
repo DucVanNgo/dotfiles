@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = ngovan92@gmail.com
+	name = Duc Van Ngo
